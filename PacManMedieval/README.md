@@ -24,3 +24,4 @@ Objetivo do jogo, coletar todas as moedas e fugir dos ghosts(Inimigos).
 ### À implementar
   - Pontuação ao coletar as moedas
   - item para permitir player eliminar inimigo
+  - Portal para transportar players
