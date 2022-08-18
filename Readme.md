@@ -1,11 +1,15 @@
-# Pac Man Medieval
+# Projetos em Flutter
+
+Esse repositório é um depósito de vários pequenos e grandes projetos desenvolvidos em Flutter.
+
+## Pac Man Medieval
 
 Projeto de jogo flutter utilizando pacote Bonfire e editor de mapas Tiled
 
 
 <img src="https://user-images.githubusercontent.com/64796689/185298480-d8eadbd8-0542-413c-ba80-ccbc54ba01aa.png" width="361" height="400">
 
-# Despesas Pessoais
+## Despesas Pessoais
 
 Aplicativo de despesas pessoais
 
