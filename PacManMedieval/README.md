@@ -10,7 +10,8 @@ Pequeno projeto de jogo flutter utilizando pacote Bonfire e editor de mapas Tile
 
 Objetivo do jogo, coletar todas as moedas e fugir dos ghosts(Inimigos).
 
-<p>Funcionalidades desenvolvidas:</p>
+## Funcionalidades 
+### Desenvolvidas:
 
   - Player e inimigos são animados utilizando Sprites.
   - inimigos seguem o player quando o mesmo entra no campo de visão.
@@ -19,3 +20,7 @@ Objetivo do jogo, coletar todas as moedas e fugir dos ghosts(Inimigos).
   - caso coletada todas as moedas(decorations) é exibido mensagem de vitória.
   - caso inimigo entre em contato com player é exibido mensagem de gameover.
   - Opção de reiniciar jogo aparece nos dois casos acima.
+  
+### À implementar
+  - Pontuação ao coletar as moedas
+  - item para permitir player eliminar inimigo
