@@ -1,16 +1,21 @@
-# pacman
+# Pac Man Medieval
 
-A new Flutter project.
+Pequeno projeto de jogo flutter utilizando pacote Bonfire e editor de mapas Tiled
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/64796689/185298480-d8eadbd8-0542-413c-ba80-ccbc54ba01aa.png" width="361" height="400">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Descrição
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Objetivo do jogo, coletar todas as moedas e fugir dos ghosts(Inimigos).
+
+<p>Funcionalidades desenvolvidas:</p>
+
+  - Player e inimigos são animados utilizando Sprites.
+  - inimigos seguem o player quando o mesmo entra no campo de visão.
+  - inimigo vaga randomicamente pelo mapa.
+  - sistema de colisão detecta contato entre player-inimigo e player-moeda.
+  - caso coletada todas as moedas(decorations) é exibido mensagem de vitória.
+  - caso inimigo entre em contato com player é exibido mensagem de gameover.
+  - Opção de reiniciar jogo aparece nos dois casos acima.
